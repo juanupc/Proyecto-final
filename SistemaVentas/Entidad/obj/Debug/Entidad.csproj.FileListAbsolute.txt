@@ -1,0 +1,6 @@
+C:\Users\acer\Downloads\Proyecto_Sistema_Ventas-master\Entidad\bin\Debug\Entidad.dll
+C:\Users\acer\Downloads\Proyecto_Sistema_Ventas-master\Entidad\bin\Debug\Entidad.pdb
+C:\Users\acer\Downloads\Proyecto_Sistema_Ventas-master\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Proyecto_Sistema_Ventas-master\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Proyecto_Sistema_Ventas-master\Entidad\obj\Debug\Entidad.dll
+C:\Users\acer\Downloads\Proyecto_Sistema_Ventas-master\Entidad\obj\Debug\Entidad.pdb
